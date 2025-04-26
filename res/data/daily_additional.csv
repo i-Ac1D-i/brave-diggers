@@ -1,0 +1,6 @@
+ID,祈祷的奖励组id,炼金的奖励组id,祈祷的血钻价格,炼金的血钻价格,祈祷图片,炼金图片,祈祷奖励数量,炼金奖励数量
+number,number,number,number,number,string,string,number,number
+ID,prayer_reward,alchemy_reward,prayer_pay,alchemy_pay,prayer_icon,alchemy_icon,prayer_num,alchemy_num
+1,2016137121,2016137124,0,0,icon/item/2000010.png,icon/item/3000004.png,1,1
+2,2016137122,2016137125,20,20,icon/item/2000010.png,icon/item/3000004.png,2,2
+3,2016137123,2016137126,90,90,icon/item/2000010.png,icon/item/3000004.png,3,3

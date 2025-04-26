@@ -1,0 +1,348 @@
+
+battle.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black
+  rotate: false
+  xy: 368, 828
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+draw_all
+  rotate: false
+  xy: 128, 7
+  size: 133, 50
+  orig: 133, 50
+  offset: 0, 0
+  index: -1
+exit
+  rotate: false
+  xy: 536, 30
+  size: 166, 28
+  orig: 166, 28
+  offset: 0, 0
+  index: -1
+fight_all
+  rotate: false
+  xy: 263, 7
+  size: 133, 50
+  orig: 133, 50
+  offset: 0, 0
+  index: -1
+flash_fire_000002
+  rotate: false
+  xy: 410, 842
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+flash_fire_000003
+  rotate: false
+  xy: 2, 763
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+flash_fire_000004
+  rotate: false
+  xy: 185, 763
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+flash_fire_000005
+  rotate: false
+  xy: 593, 842
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+flash_fire_000006
+  rotate: false
+  xy: 776, 842
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+flash_fire_000007
+  rotate: false
+  xy: 409, 666
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+flash_fire_000008
+  rotate: false
+  xy: 592, 666
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+flash_fire_000009
+  rotate: false
+  xy: 775, 666
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+flash_fire_000010
+  rotate: false
+  xy: 2, 587
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+flash_fire_000011
+  rotate: false
+  xy: 185, 587
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+flash_fire_000012
+  rotate: false
+  xy: 368, 490
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+flash_fire_000013
+  rotate: false
+  xy: 2, 411
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+flash_fire_000014
+  rotate: false
+  xy: 185, 411
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+flash_fire_000015
+  rotate: false
+  xy: 551, 490
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+flash_fire_000016
+  rotate: false
+  xy: 734, 490
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+flash_fire_000017
+  rotate: false
+  xy: 368, 314
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+flash_fire_000018
+  rotate: false
+  xy: 2, 235
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+flash_fire_000019
+  rotate: false
+  xy: 185, 235
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+flash_fire_000020
+  rotate: false
+  xy: 368, 138
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+flash_fire_000021
+  rotate: false
+  xy: 2, 59
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+flash_fire_000022
+  rotate: false
+  xy: 185, 59
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+flash_fire_000023
+  rotate: false
+  xy: 771, 314
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+flash_fire_000024
+  rotate: false
+  xy: 551, 314
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+flash_fire_000025
+  rotate: false
+  xy: 771, 138
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+flash_fire_000026
+  rotate: false
+  xy: 551, 138
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+secondbox_shade_f
+  rotate: false
+  xy: 368, 866
+  size: 40, 71
+  orig: 40, 71
+  offset: 0, 0
+  index: -1
+shield_1
+  rotate: false
+  xy: 959, 931
+  size: 60, 85
+  orig: 60, 85
+  offset: 0, 0
+  index: -1
+shield_2
+  rotate: false
+  xy: 959, 844
+  size: 60, 85
+  orig: 60, 85
+  offset: 0, 0
+  index: -1
+specialreward_array
+  rotate: false
+  xy: 771, 49
+  size: 223, 87
+  orig: 223, 87
+  offset: 0, 0
+  index: -1
+team_big_sword_light
+  rotate: false
+  xy: 917, 600
+  size: 70, 64
+  orig: 70, 64
+  offset: 0, 0
+  index: -1
+team_lose_font_all
+  rotate: false
+  xy: 2, 2
+  size: 124, 55
+  orig: 124, 55
+  offset: 0, 0
+  index: -1
+team_lose_shield3
+  rotate: false
+  xy: 959, 824
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+team_lose_shield4
+  rotate: false
+  xy: 390, 833
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+team_lose_shield5
+  rotate: false
+  xy: 390, 846
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+team_lose_shield6
+  rotate: false
+  xy: 982, 838
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+team_lose_shield7
+  rotate: false
+  xy: 403, 838
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+tip1
+  rotate: false
+  xy: 368, 60
+  size: 401, 76
+  orig: 401, 76
+  offset: 0, 0
+  index: -1
+tip2
+  rotate: false
+  xy: 2, 939
+  size: 406, 77
+  orig: 406, 77
+  offset: 0, 0
+  index: -1
+vitory
+  rotate: false
+  xy: 398, 23
+  size: 136, 35
+  orig: 136, 35
+  offset: 0, 0
+  index: -1
+
+battle2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flash_fire_000027
+  rotate: false
+  xy: 2, 2
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+specialreward_array_2
+  rotate: false
+  xy: 185, 44
+  size: 138, 132
+  orig: 138, 132
+  offset: 0, 0
+  index: -1
+team_lose_shield1
+  rotate: false
+  xy: 397, 147
+  size: 110, 107
+  orig: 110, 107
+  offset: 0, 0
+  index: -1
+team_lose_shield2
+  rotate: false
+  xy: 325, 38
+  size: 110, 107
+  orig: 110, 107
+  offset: 0, 0
+  index: -1
+tip3
+  rotate: false
+  xy: 2, 178
+  size: 393, 76
+  orig: 393, 76
+  offset: 0, 0
+  index: -1

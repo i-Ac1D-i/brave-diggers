@@ -1,0 +1,7 @@
+ID,事件名,事件描述,事件等级,事件模板,Mercenary ID,任务类型（1，战斗任务 2，材料任务 3，货币任务 4，纯事件）,怪物组ID,战斗怪物组,需求道具,货币类型,需求数量,失败冷却（单位秒）,奖励组,掉落次数
+number,string,string,number,number,number,number,number,string,number,string,string,number,number,number
+ID,name,desc,level,template_type,mercenary_id,event_type,monster_id,battle_monsters,need_item_id,need_resource_id,need_num,fail_cd,reward_id,reward_times
+1000001,战斗事件,#1#大叔…有人让我和你战斗…  #2#我就知道你是来杀我的杀手！戴墨镜的十有八九都是杀手。#1#你自己不也戴着吗？,1,1,16000013,5,1000001,,,,,2,100000200,1
+1000004,战斗事件,#1#大叔…有人让我和你战斗…  #2#我就知道你是来杀我的杀手！戴墨镜的十有八九都是杀手。#1#你自己不也戴着吗？,1,1,16000013,5,1000001,,,,,2,100000200,1
+1000002,纯事件,#1#XXXXXXX…  #2#XXXXXX,1,4,,4,1000001,,,,,2,100000200,1
+1000003,纯事件,#1#XXXXXXX…  #2#XXXXXX,3,4,,4,1000001,,,,,2,100000200,1

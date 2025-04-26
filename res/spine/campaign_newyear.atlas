@@ -1,0 +1,223 @@
+
+campaign_newyear.png
+size: 680,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottom_grass
+  rotate: true
+  xy: 84, 40
+  size: 98, 57
+  orig: 98, 57
+  offset: 0, 0
+  index: -1
+cat1_1
+  rotate: true
+  xy: 657, 106
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+cat1_2
+  rotate: true
+  xy: 657, 72
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+cat1_3
+  rotate: true
+  xy: 606, 42
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+cat2_1
+  rotate: true
+  xy: 595, 76
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+cat2_2
+  rotate: false
+  xy: 629, 69
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+cat2_3
+  rotate: true
+  xy: 629, 42
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+firecrackers
+  rotate: true
+  xy: 425, 5
+  size: 45, 151
+  orig: 45, 151
+  offset: 0, 0
+  index: -1
+man1
+  rotate: true
+  xy: 418, 52
+  size: 86, 52
+  orig: 86, 52
+  offset: 0, 0
+  index: -1
+man_back1
+  rotate: false
+  xy: 165, 5
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+man_back2
+  rotate: false
+  xy: 196, 5
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+man_back3
+  rotate: false
+  xy: 269, 8
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+man_front1
+  rotate: false
+  xy: 595, 103
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+man_front2
+  rotate: false
+  xy: 626, 103
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+man_front3
+  rotate: false
+  xy: 606, 5
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+man_right1
+  rotate: false
+  xy: 637, 5
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+maze_role_shadow_d
+  rotate: false
+  xy: 472, 59
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+mood3
+  rotate: false
+  xy: 197, 45
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+octopus1
+  rotate: false
+  xy: 377, 4
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+octopus1_2
+  rotate: true
+  xy: 472, 73
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+octopus2
+  rotate: false
+  xy: 227, 2
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+octopus3
+  rotate: true
+  xy: 118, 3
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+octopus3_2
+  rotate: true
+  xy: 84, 2
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+octopus3_3
+  rotate: false
+  xy: 578, 8
+  size: 26, 64
+  orig: 26, 64
+  offset: 0, 0
+  index: -1
+octopus4
+  rotate: true
+  xy: 300, 3
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+octopus4_2
+  rotate: true
+  xy: 532, 74
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+octopus5
+  rotate: false
+  xy: 2, 5
+  size: 80, 133
+  orig: 80, 133
+  offset: 0, 0
+  index: -1
+tower_door
+  rotate: false
+  xy: 291, 52
+  size: 69, 86
+  orig: 69, 86
+  offset: 0, 0
+  index: -1
+tower_octopus_1
+  rotate: false
+  xy: 143, 42
+  size: 52, 96
+  orig: 52, 96
+  offset: 0, 0
+  index: -1
+tower_octopus_2
+  rotate: false
+  xy: 362, 52
+  size: 54, 86
+  orig: 54, 86
+  offset: 0, 0
+  index: -1
+tower_window
+  rotate: false
+  xy: 353, 3
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1

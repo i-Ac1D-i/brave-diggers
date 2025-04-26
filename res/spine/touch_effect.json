@@ -1,0 +1,176 @@
+{
+"skeleton": { "hash": "k+BRagw5NLpyr1ZC/O+zcPgS5A8", "spine": "2.1.18", "width": 106, "height": 117.5, "images": "././" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "light", "parent": "root" },
+	{ "name": "light2", "parent": "root" },
+	{ "name": "light3", "parent": "root" }
+],
+"slots": [
+	{ "name": "light3", "bone": "light2", "color": "ffffff00", "attachment": "light2" },
+	{ "name": "light", "bone": "light", "color": "ffffff00", "attachment": "light" },
+	{ "name": "star", "bone": "light3", "attachment": "star" },
+	{ "name": "star2", "bone": "light3", "attachment": "star" },
+	{ "name": "star3", "bone": "light3", "attachment": "star" },
+	{ "name": "star4", "bone": "light3", "attachment": "star" },
+	{ "name": "star5", "bone": "light3", "attachment": "star" },
+	{ "name": "star6", "bone": "light3", "attachment": "star" }
+],
+"skins": {
+	"default": {
+		"light": {
+			"light": { "width": 106, "height": 115 }
+		},
+		"light3": {
+			"light2": { "scaleX": 2.5, "scaleY": 2.5, "width": 42, "height": 47 }
+		},
+		"star": {
+			"star": { "x": -20, "y": 10, "scaleX": 0.5, "scaleY": 0.5, "rotation": 21, "width": 20, "height": 20 }
+		},
+		"star2": {
+			"star": { "y": 20, "scaleX": 0.5, "scaleY": 0.5, "rotation": 348, "width": 20, "height": 20 }
+		},
+		"star3": {
+			"star": { "x": 20, "y": 20, "scaleX": 0.5, "scaleY": 0.5, "width": 20, "height": 20 }
+		},
+		"star4": {
+			"star": { "x": -12, "y": -14, "scaleX": 0.5, "scaleY": 0.5, "width": 20, "height": 20 }
+		},
+		"star5": {
+			"star": { "x": 14, "y": -20, "scaleX": 0.5, "scaleY": 0.5, "rotation": 333.6, "width": 20, "height": 20 }
+		},
+		"star6": {
+			"star": { "x": 20, "scaleX": 0.5, "scaleY": 0.5, "rotation": 322.79, "width": 20, "height": 20 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"light": {
+				"color": [
+					{
+						"time": 0,
+						"color": "fff765ff",
+						"curve": [ 0.131, 0.68, 0.262, 0.96 ]
+					},
+					{ "time": 0.4, "color": "ffffff00" }
+				]
+			},
+			"light3": {
+				"color": [
+					{ "time": 0, "color": "ffffff80" },
+					{ "time": 0.0666, "color": "ffffff78" },
+					{ "time": 0.4, "color": "ffffff00" }
+				]
+			},
+			"star": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{
+						"time": 0.0666,
+						"color": "ffffffa2",
+						"curve": [ 0.25, 0, 0.336, 1 ]
+					},
+					{ "time": 0.4, "color": "ffffff00" }
+				]
+			},
+			"star2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{
+						"time": 0.0666,
+						"color": "ffffffa2",
+						"curve": [ 0.25, 0, 0.336, 1 ]
+					},
+					{ "time": 0.4, "color": "ffffff00" }
+				]
+			},
+			"star3": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{
+						"time": 0.0666,
+						"color": "ffffffa2",
+						"curve": [ 0.25, 0, 0.336, 1 ]
+					},
+					{ "time": 0.4, "color": "ffffff00" }
+				]
+			},
+			"star4": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{
+						"time": 0.0666,
+						"color": "ffffffa2",
+						"curve": [ 0.25, 0, 0.336, 1 ]
+					},
+					{ "time": 0.4, "color": "ffffff00" }
+				]
+			},
+			"star5": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{
+						"time": 0.0666,
+						"color": "ffffffa2",
+						"curve": [ 0.25, 0, 0.336, 1 ]
+					},
+					{ "time": 0.4, "color": "ffffff00" }
+				]
+			},
+			"star6": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{
+						"time": 0.0666,
+						"color": "ffffffa2",
+						"curve": [ 0.25, 0, 0.336, 1 ]
+					},
+					{ "time": 0.4, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"light": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 0.5,
+						"y": 0.5,
+						"curve": [ 0.276, 1, 0.75, 1 ]
+					},
+					{ "time": 0.4, "x": 1.5, "y": 1.5 }
+				]
+			},
+			"light2": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.0666,
+						"x": 1.2,
+						"y": 1.2,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.4, "x": 1, "y": 1 }
+				]
+			},
+			"light3": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.4, "angle": 20 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.4, "x": 2.5, "y": 2.5 }
+				]
+			}
+		}
+	}
+}
+}

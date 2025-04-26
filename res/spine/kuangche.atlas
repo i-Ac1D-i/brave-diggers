@@ -1,0 +1,279 @@
+
+kuangche.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black
+  rotate: false
+  xy: 698, 77
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+mine_lv1_1
+  rotate: false
+  xy: 353, 95
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+mine_lv1_2
+  rotate: false
+  xy: 408, 95
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+mine_lv1_3
+  rotate: false
+  xy: 463, 95
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+mine_lv2_1
+  rotate: false
+  xy: 518, 95
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+mine_lv2_2
+  rotate: false
+  xy: 573, 95
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+mine_lv2_3
+  rotate: false
+  xy: 628, 95
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+mine_lv3_1
+  rotate: false
+  xy: 683, 95
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+mine_lv3_2
+  rotate: false
+  xy: 738, 95
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+mine_lv3_3
+  rotate: false
+  xy: 793, 95
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+mine_lv4_1
+  rotate: false
+  xy: 848, 95
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+mine_lv4_2
+  rotate: false
+  xy: 903, 95
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+mine_lv4_3
+  rotate: false
+  xy: 958, 95
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+tramcar_light
+  rotate: false
+  xy: 139, 83
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+tramcar_light_2
+  rotate: false
+  xy: 87, 74
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+tramcar_light_3
+  rotate: false
+  xy: 2, 40
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+tramcar_lv1
+  rotate: false
+  xy: 301, 91
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+tramcar_lv2
+  rotate: false
+  xy: 191, 91
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+tramcar_lv3
+  rotate: false
+  xy: 247, 91
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+tramcar_lv4
+  rotate: false
+  xy: 2, 2
+  size: 60, 36
+  orig: 60, 36
+  offset: 0, 0
+  index: -1
+wheel_lv1
+  rotate: false
+  xy: 64, 25
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+wheel_lv2
+  rotate: false
+  xy: 698, 62
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+wheel_lv2_light
+  rotate: false
+  xy: 191, 83
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+wheel_lv3
+  rotate: false
+  xy: 733, 80
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+wheel_lv4
+  rotate: false
+  xy: 64, 10
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+yun_ani_001
+  rotate: false
+  xy: 87, 31
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_002
+  rotate: false
+  xy: 139, 40
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_003
+  rotate: false
+  xy: 182, 40
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_004
+  rotate: false
+  xy: 225, 48
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_005
+  rotate: false
+  xy: 268, 48
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_006
+  rotate: false
+  xy: 311, 48
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_007
+  rotate: false
+  xy: 354, 52
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_008
+  rotate: false
+  xy: 397, 52
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_009
+  rotate: false
+  xy: 440, 52
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_010
+  rotate: false
+  xy: 483, 52
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_011
+  rotate: false
+  xy: 526, 52
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_012
+  rotate: false
+  xy: 569, 52
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_013
+  rotate: false
+  xy: 612, 52
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_014
+  rotate: false
+  xy: 655, 52
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1

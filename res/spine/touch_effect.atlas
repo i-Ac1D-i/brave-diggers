@@ -1,0 +1,27 @@
+
+touch_effect.png
+size: 163,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: true
+  xy: 2, 2
+  size: 106, 115
+  orig: 106, 115
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 119, 61
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 119, 39
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

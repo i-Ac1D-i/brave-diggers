@@ -1,0 +1,8 @@
+ID,购买次数,月卡用户,价格,购买时间
+number,number,number,number,number
+ID,times,month_card,price,mins
+1,1,0,50,7200
+2,2,0,100,7200
+3,3,1,100,7200
+4,4,1,200,7200
+5,5,1,200,7200

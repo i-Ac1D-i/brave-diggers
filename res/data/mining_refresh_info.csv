@@ -1,0 +1,8 @@
+ID,巨魔等级,重置后的等级,雷管,神力矿工包
+number,number,number,number,number
+ID,golem_lv,reset_lv,tnt,ultimate_tool
+1,1,1,0,0
+2,100,150,3,20
+3,200,250,6,40
+4,300,360,9,60
+5,350,490,12,70

@@ -1,0 +1,216 @@
+
+campaign.png
+size: 319,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottom_grass
+  rotate: true
+  xy: 2, 56
+  size: 98, 57
+  orig: 98, 57
+  offset: 0, 0
+  index: -1
+cat1_1
+  rotate: false
+  xy: 84, 156
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+cat1_2
+  rotate: false
+  xy: 118, 156
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+cat1_3
+  rotate: false
+  xy: 152, 156
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+cat2_1
+  rotate: true
+  xy: 278, 88
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+cat2_2
+  rotate: true
+  xy: 255, 61
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+cat2_3
+  rotate: false
+  xy: 289, 54
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+man1
+  rotate: true
+  xy: 155, 179
+  size: 86, 52
+  orig: 86, 52
+  offset: 0, 0
+  index: -1
+man_back1
+  rotate: false
+  xy: 209, 183
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+man_back2
+  rotate: true
+  xy: 240, 236
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+man_back3
+  rotate: false
+  xy: 209, 230
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+man_front1
+  rotate: true
+  xy: 240, 205
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+man_front2
+  rotate: true
+  xy: 240, 174
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+man_front3
+  rotate: true
+  xy: 278, 146
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+man_right1
+  rotate: true
+  xy: 278, 115
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+maze_role_shadow_d
+  rotate: false
+  xy: 186, 165
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+mood3
+  rotate: false
+  xy: 61, 61
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+octopus1
+  rotate: false
+  xy: 261, 6
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+octopus1_2
+  rotate: true
+  xy: 155, 89
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+octopus2
+  rotate: false
+  xy: 277, 177
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+octopus3
+  rotate: false
+  xy: 278, 220
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+octopus3_2
+  rotate: true
+  xy: 221, 61
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+octopus3_3
+  rotate: true
+  xy: 155, 61
+  size: 26, 64
+  orig: 26, 64
+  offset: 0, 0
+  index: -1
+octopus4
+  rotate: false
+  xy: 188, 8
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+octopus4_2
+  rotate: true
+  xy: 215, 99
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+octopus5
+  rotate: false
+  xy: 2, 156
+  size: 80, 109
+  orig: 80, 109
+  offset: 0, 0
+  index: -1
+tower_door
+  rotate: false
+  xy: 84, 179
+  size: 69, 86
+  orig: 69, 86
+  offset: 0, 0
+  index: -1
+tower_octopus_1
+  rotate: true
+  xy: 2, 2
+  size: 52, 96
+  orig: 52, 96
+  offset: 0, 0
+  index: -1
+tower_octopus_2
+  rotate: true
+  xy: 100, 5
+  size: 54, 86
+  orig: 54, 86
+  offset: 0, 0
+  index: -1
+tower_window
+  rotate: false
+  xy: 237, 12
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1

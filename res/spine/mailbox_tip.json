@@ -1,0 +1,66 @@
+{
+"skeleton": { "hash": "7dRI97ONXYL63zfoJcGVL63qJ34", "spine": "3.0.16", "width": 92, "height": 93, "images": "./../../英雄季 白天/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "newtip", "parent": "root" }
+],
+"slots": [
+	{ "name": "tip", "bone": "newtip", "color": "ffffff00", "attachment": "tip" }
+],
+"skins": {
+	"default": {
+		"tip": {
+			"tip": { "width": 92, "height": 93 }
+		}
+	}
+},
+"animations": {
+	"newtip": {
+		"slots": {
+			"tip": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.5333, "color": "ffffffff" },
+					{ "time": 1.8333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"newtip": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.4, "angle": 0 }
+				],
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0, 0, 0.375, 1.67 ]
+					},
+					{ "time": 0.4, "x": 0, "y": 34.99, "curve": "stepped" },
+					{ "time": 3.3333, "x": 0, "y": 34.99 }
+				]
+			}
+		}
+	},
+	"normal": {
+		"slots": {
+			"tip": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"newtip": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1666, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

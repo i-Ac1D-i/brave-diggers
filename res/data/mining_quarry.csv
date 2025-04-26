@@ -1,0 +1,15 @@
+ID,名,深度,储藏量,雷管消耗,次数消耗,耗时,奖励组,资源图标,深度icon
+number,string,number,number,number,number,number,number,string,string
+ID,name,need_layer,output_count,tnt_count,dig_count,need_time,reward_id,resource_ids,icon
+1,浅表L1,0,15,,20,60,40000001,7|10|14,icon/mining/projecticon_1.png
+2,浅表L2,0,25,,40,120,40000001,7|10|14,icon/mining/projecticon_1.png
+3,浅表L3,0,45,,80,240,40000001,7|10|14,icon/mining/projecticon_1.png
+4,中层L1,35,12,,20,60,40000005,8|9|15,icon/mining/projecticon_2.png
+5,中层L2,35,20,,40,120,40000005,8|9|15,icon/mining/projecticon_2.png
+6,中层L3,35,36,,80,240,40000005,8|9|15,icon/mining/projecticon_2.png
+7,深层L1,120,10,1,20,60,40000010,11|12|16,icon/mining/projecticon_3.png
+8,深层L2,120,17,2,40,120,40000010,11|12|16,icon/mining/projecticon_3.png
+9,深层L3,120,30,3,80,240,40000010,11|12|16,icon/mining/projecticon_3.png
+10,地心L1,250,4,1,20,60,40000014,11|13|17,icon/mining/projecticon_4.png
+11,地心L2,250,7,2,40,120,40000014,11|13|17,icon/mining/projecticon_4.png
+12,地心L3,250,13,3,80,240,40000014,11|13|17,icon/mining/projecticon_4.png

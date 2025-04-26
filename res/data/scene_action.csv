@@ -1,0 +1,4 @@
+﻿ID,名称,振动时间,振动X,振动Y,振频(单位：毫秒)
+number,string,number,number,number,number
+ID,name,vibration_time,vibration_x,vibration_y,vibration_freq
+1,振动,10000,10,10,40

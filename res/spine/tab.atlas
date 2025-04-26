@@ -1,0 +1,125 @@
+
+tab.png
+size: 251,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 2, 417
+  size: 108, 99
+  orig: 108, 99
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 112, 417
+  size: 106, 99
+  orig: 106, 99
+  offset: 0, 0
+  index: -1
+lock
+  rotate: false
+  xy: 178, 2
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+tab1_name
+  rotate: true
+  xy: 220, 450
+  size: 66, 29
+  orig: 66, 29
+  offset: 0, 0
+  index: -1
+tab1_world
+  rotate: false
+  xy: 2, 215
+  size: 106, 99
+  orig: 106, 99
+  offset: 0, 0
+  index: -1
+tab2_maze
+  rotate: false
+  xy: 112, 316
+  size: 106, 99
+  orig: 106, 99
+  offset: 0, 0
+  index: -1
+tab2_name
+  rotate: false
+  xy: 110, 83
+  size: 66, 29
+  orig: 66, 29
+  offset: 0, 0
+  index: -1
+tab3_mining
+  rotate: false
+  xy: 2, 114
+  size: 106, 99
+  orig: 106, 99
+  offset: 0, 0
+  index: -1
+tab3_name
+  rotate: true
+  xy: 220, 382
+  size: 66, 29
+  orig: 66, 29
+  offset: 0, 0
+  index: -1
+tab4_name
+  rotate: false
+  xy: 110, 52
+  size: 66, 29
+  orig: 66, 29
+  offset: 0, 0
+  index: -1
+tab4_recruit
+  rotate: false
+  xy: 110, 215
+  size: 106, 99
+  orig: 106, 99
+  offset: 0, 0
+  index: -1
+tab5_name
+  rotate: false
+  xy: 110, 21
+  size: 66, 29
+  orig: 66, 29
+  offset: 0, 0
+  index: -1
+tab5_pvp
+  rotate: false
+  xy: 2, 13
+  size: 106, 99
+  orig: 106, 99
+  offset: 0, 0
+  index: -1
+tab6_mercenary
+  rotate: false
+  xy: 110, 114
+  size: 106, 99
+  orig: 106, 99
+  offset: 0, 0
+  index: -1
+tab6_name
+  rotate: true
+  xy: 178, 46
+  size: 66, 29
+  orig: 66, 29
+  offset: 0, 0
+  index: -1
+tab_lockname
+  rotate: true
+  xy: 220, 314
+  size: 66, 29
+  orig: 66, 29
+  offset: 0, 0
+  index: -1
+tabbg
+  rotate: false
+  xy: 2, 316
+  size: 108, 99
+  orig: 108, 99
+  offset: 0, 0
+  index: -1
