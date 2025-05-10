@@ -1,0 +1,258 @@
+
+pengke_ta.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10000002
+  rotate: false
+  xy: 471, 439
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+10000004
+  rotate: false
+  xy: 377, 113
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+12000004
+  rotate: false
+  xy: 236, 6
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+18000010
+  rotate: false
+  xy: 272, 6
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 471, 421
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+chilun_1
+  rotate: false
+  xy: 334, 334
+  size: 84, 82
+  orig: 84, 82
+  offset: 0, 0
+  index: -1
+chilun_2
+  rotate: false
+  xy: 365, 278
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+chilun_3
+  rotate: false
+  xy: 471, 475
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+chilun_4
+  rotate: false
+  xy: 169, 45
+  size: 66, 38
+  orig: 66, 38
+  offset: 0, 0
+  index: -1
+chilun_5
+  rotate: false
+  xy: 334, 88
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1
+chilun_ci
+  rotate: false
+  xy: 334, 230
+  size: 29, 102
+  orig: 29, 102
+  offset: 0, 0
+  index: -1
+pengke_feiting
+  rotate: false
+  xy: 334, 418
+  size: 135, 92
+  orig: 135, 92
+  offset: 0, 0
+  index: -1
+ta_1
+  rotate: false
+  xy: 408, 259
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+ta_10
+  rotate: false
+  xy: 2, 85
+  size: 330, 425
+  orig: 330, 425
+  offset: 0, 0
+  index: -1
+ta_2
+  rotate: false
+  xy: 206, 10
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+ta_3
+  rotate: false
+  xy: 2, 2
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+ta_4
+  rotate: false
+  xy: 27, 2
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+ta_5
+  rotate: false
+  xy: 52, 6
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+ta_6
+  rotate: false
+  xy: 2, 27
+  size: 73, 56
+  orig: 73, 56
+  offset: 0, 0
+  index: -1
+ta_7
+  rotate: false
+  xy: 77, 55
+  size: 90, 28
+  orig: 90, 28
+  offset: 0, 0
+  index: -1
+ta_8
+  rotate: false
+  xy: 308, 6
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+ta_9
+  rotate: false
+  xy: 408, 241
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+yun_ani_001
+  rotate: false
+  xy: 420, 375
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_002
+  rotate: false
+  xy: 365, 235
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_003
+  rotate: false
+  xy: 420, 332
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_004
+  rotate: false
+  xy: 420, 289
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_005
+  rotate: false
+  xy: 237, 42
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_006
+  rotate: false
+  xy: 280, 42
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_007
+  rotate: false
+  xy: 334, 187
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_008
+  rotate: false
+  xy: 334, 144
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_009
+  rotate: false
+  xy: 334, 101
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_010
+  rotate: false
+  xy: 77, 12
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_011
+  rotate: false
+  xy: 120, 12
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_012
+  rotate: false
+  xy: 163, 2
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_013
+  rotate: false
+  xy: 377, 192
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yun_ani_014
+  rotate: false
+  xy: 377, 149
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1

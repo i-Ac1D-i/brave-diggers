@@ -1,0 +1,6 @@
+ID,土层MIN,土层MAX,事件类型(1 占领、2 随机资源、3 寻宝),触发几率(万分率),最大触发次数
+number,number,number,number,number,number
+ID,dig_min,dig_max,type,random_seed,max_happen
+1,0,300,1,1100,0
+2,0,300,2,1100,0
+3,0,195,3,550,0

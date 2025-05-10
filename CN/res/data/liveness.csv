@@ -1,0 +1,13 @@
+ID,活跃度ID,行为,次数,活跃值,奖励,条件,跳转,标题,描述,图标路径,Icon缩放,标题,描述,标题,描述,标题,描述,标题,描述
+number,number,number,number,number,number,number,number,string,string,string,number,string,string,string,string,string,string,string,string
+ID,liveness_id,action,condition_count,active_value,reward_group,condition,jump_pannel_id,active_title,active_des,active_path,scale,active_title_zh-TW,active_des_zh-TW,active_title_en-US,active_des_en-US,active_title_vi,active_des_vi,active_title_th,active_des_th
+1,1,1,1,5,880000001,100001,14,签到,完成1次签到,button/checkin2,1,缺翻译,缺翻译,Check-in,Login 1 day,Ký tên,缺翻译,เช็กอิน,เช็กอิน1ครั้งสำเร็จ
+2,2,3,1,10,880000003,100001,21,工坊生产,进行工坊生产1次,icon/global/superweapon_icon,1,缺翻译,缺翻译,Workshop,Perform speculation 1 time,缺翻译,缺翻译,ผลิต,ผลิต1ครั้ง
+3,3,4,5,10,880000001,100001,10,好友赠送,进行5次好友赠送,button/friend2,1,缺翻译,缺翻译,Hearts,Send hearts 5 times,缺翻译,缺翻译,เพื่อนส่ง,เพื่อนส่งให้5ครั้ง
+4,4,5,1,15,880000009,100001,63,佣兵强化,强化佣兵1次,button/listicon_3,1,缺翻译,缺翻译,Train,Upgrade Heros 1 time,缺翻译,缺翻译,อัพเกรดทหาร,อัพเกรดทหาร1ครั้ง
+5,5,6,9,15,880000002,100001,50,竞技场,参与9次竞技场战斗,button/listicon_1,1,缺翻译,缺翻译,Arena,Join 9 battles in the Arena,Đấu trường,缺翻译,สนามแข่ง,เข้าร่วมประลอง9ครั้ง
+6,6,7,3,15,880000002,100001,51,排位赛,进行3次排位赛,icon/arena/listicon_ranking,1,缺翻译,缺翻译,Qualifying ,Challenge the Domination Duel 3 times,Gọi trợ thủ,缺翻译,การแข่งจัดอันดับ,เข้าร่วมการแข่ง3ครั้ง
+7,7,12,1,15,880000002,100001,5,召唤佣兵,召唤1次佣兵,icon/item/2000010,1.2,缺翻译,缺翻译,Hire Heroes,Recruit Heroes to your cause 1 time,缺翻译,缺翻译,เรียกทหาร,เรียกทหาร1ครั้ง
+8,8,14,3,5,880000007,100111,24,巨魔巢穴,进行3次巨魔巢穴,icon/resource/golem,1,缺翻译,缺翻译,Idol's Nest,Challenge the Idol's Nest 3 times,Sào huyệt Troll,缺翻译,รังยักษ์,ไปรังยักษ์3ครั้ง
+9,9,13,3,5,880000008,100076,23,地下探险,进行3次地下探险,icon/resource/coin_res,1,缺翻译,缺翻译,Combat Cave,Perform Combat Cave 3 times,Thám hiểm ngầm,缺翻译,สำรวจใต้ดิน,ไปสำรวจใต้ดิน3ครั้ง
+10,10,19,3,15,880000001,100001,15,佣兵升级,进行3次佣兵升级,button/rewardbtn_icon_exp,1,缺翻译,缺翻译,Upgrade,Perform hero upgrade 3 times,Thăng cấp trợ thủ,缺翻译,อัพเลเวลทหาร,อัพเกรดทหาร3ครั้ง

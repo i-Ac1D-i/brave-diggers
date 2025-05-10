@@ -1,0 +1,41 @@
+
+recruit_new.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flash_gold
+  rotate: false
+  xy: 348, 25
+  size: 136, 63
+  orig: 136, 63
+  offset: 0, 0
+  index: -1
+gold
+  rotate: false
+  xy: 204, 155
+  size: 180, 68
+  orig: 180, 68
+  offset: 0, 0
+  index: -1
+king
+  rotate: false
+  xy: 204, 30
+  size: 142, 58
+  orig: 142, 58
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 2, 2
+  size: 200, 221
+  orig: 200, 221
+  offset: 0, 0
+  index: -1
+new
+  rotate: false
+  xy: 204, 90
+  size: 170, 63
+  orig: 170, 63
+  offset: 0, 0
+  index: -1

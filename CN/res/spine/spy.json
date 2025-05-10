@@ -1,0 +1,150 @@
+{
+"skeleton": { "hash": "P+wZAXBXWBGT2BH27MsoQPGcR7o", "spine": "3.1.02", "width": 153.42, "height": 118.87, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "ani_spy", "parent": "root", "x": 262, "y": 275 },
+	{ "name": "man_1", "parent": "ani_spy", "x": 67.92, "y": -49.43 },
+	{ "name": "man_tip", "parent": "ani_spy", "x": 67.92, "y": -49.43 }
+],
+"slots": [
+	{ "name": "ani_spy", "bone": "ani_spy", "color": "ffffff00", "attachment": "campsite_2" },
+	{ "name": "campsite_4", "bone": "man_1", "color": "ffffff00", "attachment": "campsite_4" },
+	{ "name": "campsite_3", "bone": "man_tip", "color": "ffffff00", "attachment": "campsite_3" },
+	{ "name": "campsite_1", "bone": "ani_spy", "color": "ffffff00", "attachment": "campsite_1" }
+],
+"skins": {
+	"default": {
+		"ani_spy": {
+			"campsite_2": { "x": -4.64, "y": 15.44, "width": 120, "height": 73 }
+		},
+		"campsite_1": {
+			"campsite_1": { "width": 140, "height": 99 }
+		},
+		"campsite_3": {
+			"campsite_3": { "width": 31, "height": 30 }
+		},
+		"campsite_4": {
+			"campsite_4": { "width": 29, "height": 35 }
+		}
+	}
+},
+"events": {
+	"attack_touch": {},
+	"shock": {}
+},
+"animations": {
+	"spy_left": {
+		"slots": {
+			"ani_spy": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.6333, "color": "ffffffff" },
+					{ "time": 1.3, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 2.7666, "color": "ffffff00" },
+					{ "time": 3.4, "color": "ffffffff" },
+					{ "time": 4.0666, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 5.3333, "color": "ffffff00" }
+				]
+			},
+			"campsite_1": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"ani_spy": {
+				"translate": [
+					{ "time": 0, "x": -256.55, "y": -275 }
+				]
+			}
+		}
+	},
+	"spy_right": {
+		"slots": {
+			"ani_spy": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.6333, "color": "ffffffff" },
+					{ "time": 1.3, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 2.7666, "color": "ffffff00" },
+					{ "time": 3.4, "color": "ffffffff" },
+					{ "time": 4.0666, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 5.3333, "color": "ffffff00" }
+				]
+			},
+			"campsite_1": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" }
+				]
+			},
+			"campsite_3": {
+				"color": [
+					{ "time": 0.5333, "color": "ffffff00" },
+					{ "time": 0.8333, "color": "ffffffec", "curve": "stepped" },
+					{ "time": 3.3666, "color": "ffffffec" },
+					{ "time": 3.7, "color": "ffffff00" }
+				]
+			},
+			"campsite_4": {
+				"color": [
+					{ "time": 0, "color": "ffffffec", "curve": "stepped" },
+					{ "time": 3.7, "color": "ffffffec" },
+					{ "time": 3.7333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"ani_spy": {
+				"translate": [
+					{ "time": 0, "x": -256.55, "y": -275 }
+				]
+			},
+			"man_1": {
+				"rotate": [
+					{ "time": 0, "angle": 19.97, "curve": "stepped" },
+					{ "time": 0.4666, "angle": 19.97 }
+				],
+				"translate": [
+					{
+						"time": 0,
+						"x": -108.91,
+						"y": 27.19,
+						"curve": [ 0, 0, 0.671, 1.62 ]
+					},
+					{ "time": 0.4666, "x": -125.65, "y": 30.06, "curve": "stepped" },
+					{ "time": 3.3333, "x": -125.65, "y": 30.06 },
+					{ "time": 3.6666, "x": -108.16, "y": 30.06 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.6, "y": 0.6, "curve": "stepped" },
+					{ "time": 0.4666, "x": 0.6, "y": 0.6 }
+				]
+			},
+			"man_tip": {
+				"translate": [
+					{
+						"time": 0.5333,
+						"x": -138.3,
+						"y": 41.99,
+						"curve": [ 0.374, 0.75, 0.671, 1.31 ]
+					},
+					{ "time": 0.8333, "x": -141.3, "y": 52.32, "curve": "stepped" },
+					{ "time": 1.6666, "x": -141.3, "y": 52.32 },
+					{ "time": 1.9, "x": -141.3, "y": 49.58 },
+					{ "time": 2.1333, "x": -141.3, "y": 52.32 }
+				],
+				"scale": [
+					{
+						"time": 0.5333,
+						"x": 0.426,
+						"y": 0.426,
+						"curve": [ 0.374, 0.75, 0.671, 1.31 ]
+					},
+					{ "time": 0.8333, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

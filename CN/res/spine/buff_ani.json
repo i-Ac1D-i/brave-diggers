@@ -1,0 +1,191 @@
+{
+"skeleton": { "hash": "bMKS6kx2sGeHAbF/ajmX8ZCfEZE", "spine": "3.1.02", "width": 397.49, "height": 98.75, "images": "" },
+"bones": [
+	{ "name": "root", "y": -28.83 },
+	{ "name": "buff", "parent": "root", "y": 28.83, "color": "ed4700ff" },
+	{ "name": "bone", "parent": "buff", "color": "ed4700ff" },
+	{ "name": "bone4", "parent": "buff", "color": "ed4700ff" },
+	{ "name": "point", "parent": "root", "y": 28.83 },
+	{ "name": "rewardbtn_icon", "parent": "root", "x": -331.58, "y": 90.5 },
+	{ "name": "shield_icon", "parent": "root", "x": -331.58, "y": 90.5 }
+],
+"slots": [
+	{ "name": "buff_2", "bone": "bone", "color": "ffffff00", "attachment": "buff_2" },
+	{ "name": "buff_3", "bone": "buff", "color": "ffffff00", "attachment": "buff_3" },
+	{ "name": "buff_1", "bone": "bone4", "color": "ffffff00", "attachment": "buff_1" },
+	{ "name": "shield_icon_2", "bone": "shield_icon", "color": "ffffff00", "attachment": "shield_icon_2" },
+	{ "name": "shield_icon", "bone": "shield_icon", "color": "ffffff00", "attachment": "shield_icon" },
+	{ "name": "rewardbtn_icon_search_2", "bone": "rewardbtn_icon", "color": "ffffff00", "attachment": "rewardbtn_icon_search_2" },
+	{ "name": "rewardbtn_icon_search", "bone": "rewardbtn_icon", "color": "ffffff00", "attachment": "rewardbtn_icon_search" },
+	{ "name": "contract_level", "bone": "point", "color": "ffffff00", "attachment": "contract_level" },
+	{ "name": "contract_level_1", "bone": "point", "color": "ffffff00", "attachment": "contract_level_1", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"buff_1": {
+			"buff_1": { "width": 52, "height": 52 }
+		},
+		"buff_2": {
+			"buff_2": { "width": 52, "height": 52 }
+		},
+		"buff_3": {
+			"buff_3": { "width": 52, "height": 52 }
+		},
+		"contract_level": {
+			"contract_level": { "width": 36, "height": 41 }
+		},
+		"contract_level_1": {
+			"contract_level_1": { "x": -0.09, "y": -0.03, "width": 36, "height": 41 }
+		},
+		"rewardbtn_icon_search": {
+			"rewardbtn_icon_search": { "y": -28.83, "width": 76, "height": 76 }
+		},
+		"rewardbtn_icon_search_2": {
+			"rewardbtn_icon_search_2": { "y": -28.83, "scaleX": 1.05, "scaleY": 1.05, "width": 76, "height": 76 }
+		},
+		"shield_icon": {
+			"shield_icon": { "y": -28.83, "width": 50, "height": 55 }
+		},
+		"shield_icon_2": {
+			"shield_icon_2": { "y": -28.83, "scaleX": 1.16, "scaleY": 1.16, "width": 50, "height": 55 }
+		}
+	}
+},
+"events": {
+	"out": {},
+	"stop": {}
+},
+"animations": {
+	"buff": {
+		"slots": {
+			"buff_1": {
+				"color": [
+					{ "time": 0.4666, "color": "ffffff00" },
+					{ "time": 0.8333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.9333, "color": "ffffffff" },
+					{ "time": 1.3666, "color": "ffffff00" }
+				]
+			},
+			"buff_2": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" }
+				]
+			},
+			"buff_3": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"buff": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.8333, "x": 1, "y": 1 }
+				]
+			},
+			"bone": {
+				"scale": [
+					{ "time": 0, "x": 1.422, "y": 1.422 },
+					{ "time": 0.8333, "x": 1.588, "y": 1.588 },
+					{ "time": 1.6666, "x": 1.422, "y": 1.422 }
+				]
+			},
+			"bone4": {
+				"translate": [
+					{ "time": 0, "x": 0.25, "y": 0.15 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"buff_point": {
+		"slots": {
+			"contract_level": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" }
+				]
+			},
+			"contract_level_1": {
+				"color": [
+					{ "time": 0.3, "color": "ffffff00" },
+					{ "time": 0.4666, "color": "ffffffff" },
+					{ "time": 0.8, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.1666, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"point": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{
+						"time": 0.3333,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.278, 0, 0.33, 1.51 ]
+					},
+					{ "time": 0.4666, "x": 0, "y": 10.52 },
+					{ "time": 0.8, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.3333, "x": 1, "y": 0.794 },
+					{ "time": 0.4, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.5666, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"buff_rewardbtn_icon": {
+		"slots": {
+			"rewardbtn_icon_search": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" }
+				]
+			},
+			"rewardbtn_icon_search_2": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.5666, "color": "ffffffff" },
+					{ "time": 1.1333, "color": "ffffff3c" },
+					{ "time": 1.6666, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"rewardbtn_icon": {
+				"translate": [
+					{ "time": 0, "x": 333.54, "y": -29.36 }
+				]
+			}
+		}
+	},
+	"buff_shield_icon": {
+		"slots": {
+			"shield_icon": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" }
+				]
+			},
+			"shield_icon_2": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.4333, "color": "ffffffff" },
+					{ "time": 1, "color": "ffffff40" },
+					{ "time": 1.6666, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"shield_icon": {
+				"translate": [
+					{ "time": 0, "x": 331.64, "y": -33.17 }
+				]
+			}
+		}
+	}
+}
+}

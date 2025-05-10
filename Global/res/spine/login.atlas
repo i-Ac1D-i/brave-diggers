@@ -1,0 +1,139 @@
+
+login.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1123, 641
+  size: 640, 332
+  orig: 640, 332
+  offset: 0, 0
+  index: -1
+bird
+  rotate: false
+  xy: 1765, 695
+  size: 84, 130
+  orig: 84, 130
+  offset: 0, 0
+  index: -1
+d_1
+  rotate: false
+  xy: 1765, 827
+  size: 181, 146
+  orig: 181, 146
+  offset: 0, 0
+  index: -1
+d_3
+  rotate: false
+  xy: 2, 204
+  size: 184, 144
+  orig: 184, 144
+  offset: 0, 0
+  index: -1
+d_4
+  rotate: false
+  xy: 188, 213
+  size: 127, 135
+  orig: 127, 135
+  offset: 0, 0
+  index: -1
+decorate1
+  rotate: false
+  xy: 188, 213
+  size: 127, 135
+  orig: 127, 135
+  offset: 0, 0
+  index: -1
+de1
+  rotate: false
+  xy: 1948, 857
+  size: 60, 116
+  orig: 60, 116
+  offset: 0, 0
+  index: -1
+decorate2
+  rotate: false
+  xy: 317, 280
+  size: 104, 68
+  orig: 104, 68
+  offset: 0, 0
+  index: -1
+decorate3
+  rotate: false
+  xy: 2, 2
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+decorate4
+  rotate: false
+  xy: 1765, 641
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+decorate5
+  rotate: false
+  xy: 1810, 641
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+decorate6
+  rotate: false
+  xy: 1069, 523
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+main_bg
+  rotate: false
+  xy: 1589, 71
+  size: 320, 568
+  orig: 320, 568
+  offset: 0, 0
+  index: -1
+role
+  rotate: false
+  xy: 2, 350
+  size: 473, 623
+  orig: 473, 623
+  offset: 0, 0
+  index: -1
+role2
+  rotate: false
+  xy: 477, 547
+  size: 644, 426
+  orig: 644, 426
+  offset: 0, 0
+  index: -1
+role2_1
+  rotate: false
+  xy: 2, 66
+  size: 114, 136
+  orig: 114, 136
+  offset: 0, 0
+  index: -1
+ruby
+  rotate: false
+  xy: 1123, 153
+  size: 464, 486
+  orig: 464, 486
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 118, 182
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+txt1
+  rotate: false
+  xy: 477, 283
+  size: 590, 262
+  orig: 590, 262
+  offset: 0, 0
+  index: -1

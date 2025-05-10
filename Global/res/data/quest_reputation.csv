@@ -1,0 +1,13 @@
+ID,声望,等级,头衔,等级描述
+number,number,number,string,string
+ID,reputation,level,title,level_name
+1,0,1,S1,F
+2,2,2,S2,E
+3,190,3,S3,A
+4,730,4,S4,A
+5,1810,5,S5,A
+6,4350,6,S6,A
+7,9270,7,S7,A
+8,17250,8,S8,A
+9,30120,9,S9,A
+10,48840,10,S10,A

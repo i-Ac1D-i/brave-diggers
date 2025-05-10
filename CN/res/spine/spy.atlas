@@ -1,0 +1,34 @@
+
+spy.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+campsite_1
+  rotate: false
+  xy: 2, 2
+  size: 140, 99
+  orig: 140, 99
+  offset: 0, 0
+  index: -1
+campsite_2
+  rotate: false
+  xy: 144, 28
+  size: 120, 73
+  orig: 120, 73
+  offset: 0, 0
+  index: -1
+campsite_3
+  rotate: false
+  xy: 297, 71
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+campsite_4
+  rotate: false
+  xy: 266, 66
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1

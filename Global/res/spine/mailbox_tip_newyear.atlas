@@ -1,0 +1,48 @@
+
+mailbox_tip_newyear.png
+size: 152,109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box_letter
+  rotate: false
+  xy: 2, 2
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+box_light
+  rotate: false
+  xy: 96, 25
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+flag_am
+  rotate: true
+  xy: 96, 46
+  size: 61, 25
+  orig: 61, 25
+  offset: 0, 0
+  index: -1
+flag_pm
+  rotate: true
+  xy: 123, 46
+  size: 61, 25
+  orig: 61, 25
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 130, 24
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+tip
+  rotate: false
+  xy: 2, 14
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1

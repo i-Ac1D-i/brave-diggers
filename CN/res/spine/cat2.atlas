@@ -1,0 +1,27 @@
+
+cat2.png
+size: 32,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cat2_1
+  rotate: false
+  xy: 2, 70
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+cat2_2
+  rotate: false
+  xy: 2, 36
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+cat2_3
+  rotate: false
+  xy: 2, 2
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1

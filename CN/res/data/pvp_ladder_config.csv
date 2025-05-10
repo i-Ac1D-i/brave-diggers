@@ -1,0 +1,4 @@
+ID,开始时间,延迟时间,结束时间,休战时间
+number,string,number,number,number
+ID,optime,detime,endtime,trtime
+1,2017-1-10,12,154,2

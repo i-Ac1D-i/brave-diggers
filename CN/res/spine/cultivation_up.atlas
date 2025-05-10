@@ -1,0 +1,174 @@
+
+cultivation_up.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flash_fire_00001
+  rotate: false
+  xy: 2, 39
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+flash_fire_00002
+  rotate: false
+  xy: 252, 196
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+flash_fire_00003
+  rotate: false
+  xy: 2, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+flash_fire_00004
+  rotate: false
+  xy: 39, 39
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+flash_fire_00005
+  rotate: false
+  xy: 252, 159
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+flash_fire_00006
+  rotate: false
+  xy: 289, 196
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+flash_fire_00007
+  rotate: false
+  xy: 39, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+flash_fire_00008
+  rotate: false
+  xy: 76, 39
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+flash_fire_00009
+  rotate: false
+  xy: 252, 122
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+flash_fire_00010
+  rotate: false
+  xy: 289, 159
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+flash_fire_00011
+  rotate: false
+  xy: 326, 196
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+flash_fire_00012
+  rotate: false
+  xy: 76, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+flash_fire_00013
+  rotate: false
+  xy: 113, 39
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+flash_fire_00014
+  rotate: false
+  xy: 252, 85
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+flash_fire_00015
+  rotate: false
+  xy: 289, 122
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+flash_fire_00016
+  rotate: false
+  xy: 326, 159
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+flash_fire_00017
+  rotate: false
+  xy: 363, 196
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+flash_fire_00018
+  rotate: false
+  xy: 113, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+flash_fire_00019
+  rotate: false
+  xy: 150, 39
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+flash_fire_00020
+  rotate: false
+  xy: 289, 85
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+flash_fire_00021
+  rotate: false
+  xy: 326, 122
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+flash_fire_00022
+  rotate: false
+  xy: 363, 159
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+flash_fire_00023
+  rotate: false
+  xy: 400, 196
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+fuwen_1
+  rotate: false
+  xy: 2, 76
+  size: 248, 155
+  orig: 248, 155
+  offset: 0, 0
+  index: -1

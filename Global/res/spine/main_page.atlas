@@ -1,0 +1,377 @@
+
+main_page.png
+size: 993,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball/ball
+  rotate: false
+  xy: 854, 161
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+ball/shadow_day
+  rotate: true
+  xy: 900, 226
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+ball/shadow_day2
+  rotate: true
+  xy: 952, 179
+  size: 45, 18
+  orig: 45, 18
+  offset: 0, 0
+  index: -1
+ball/shadow_night
+  rotate: false
+  xy: 769, 152
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+ball/shadow_night2
+  rotate: true
+  xy: 972, 184
+  size: 45, 18
+  orig: 45, 18
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: false
+  xy: 646, 311
+  size: 331, 95
+  orig: 331, 95
+  offset: 0, 0
+  index: -1
+crowd_voice1
+  rotate: false
+  xy: 875, 64
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+crowd_voice2
+  rotate: false
+  xy: 915, 74
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+floor1
+  rotate: false
+  xy: 2, 3
+  size: 320, 403
+  orig: 320, 403
+  offset: 0, 0
+  index: -1
+floor2
+  rotate: false
+  xy: 324, 3
+  size: 320, 403
+  orig: 320, 403
+  offset: 0, 0
+  index: -1
+halo/halo_big
+  rotate: true
+  xy: 740, 75
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+halo/halo_ing1
+  rotate: false
+  xy: 775, 74
+  size: 48, 20
+  orig: 48, 20
+  offset: 0, 0
+  index: -1
+halo/halo_ing2
+  rotate: true
+  xy: 646, 2
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+halo/halo_light
+  rotate: false
+  xy: 913, 37
+  size: 39, 11
+  orig: 39, 11
+  offset: 0, 0
+  index: -1
+halo/halo_small
+  rotate: true
+  xy: 913, 50
+  size: 10, 40
+  orig: 10, 40
+  offset: 0, 0
+  index: -1
+person/day_person1
+  rotate: true
+  xy: 915, 62
+  size: 10, 34
+  orig: 10, 34
+  offset: 0, 0
+  index: -1
+person/day_person2
+  rotate: false
+  xy: 799, 2
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+person/day_person3
+  rotate: false
+  xy: 733, 2
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+person/day_person4
+  rotate: false
+  xy: 877, 9
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+person/day_person5
+  rotate: false
+  xy: 766, 2
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+person/day_person6
+  rotate: false
+  xy: 773, 38
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+person/day_person7
+  rotate: true
+  xy: 906, 7
+  size: 10, 29
+  orig: 10, 29
+  offset: 0, 0
+  index: -1
+person/maze_role_shadow_d
+  rotate: true
+  xy: 979, 335
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+person/milk
+  rotate: false
+  xy: 806, 44
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+person/milk_poison
+  rotate: false
+  xy: 985, 165
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+person/night_person1
+  rotate: false
+  xy: 826, 2
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+person/night_person2
+  rotate: true
+  xy: 955, 56
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+person/night_person3
+  rotate: true
+  xy: 843, 4
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+person/night_person4
+  rotate: false
+  xy: 740, 38
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+person/night_person5
+  rotate: true
+  xy: 875, 42
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+person/night_person6
+  rotate: false
+  xy: 694, 2
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+person/night_person7
+  rotate: true
+  xy: 955, 84
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+role1/battery1
+  rotate: true
+  xy: 806, 38
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+role1/battery2
+  rotate: true
+  xy: 769, 221
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+role1/batterybg
+  rotate: false
+  xy: 906, 19
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+role1/batteryline
+  rotate: false
+  xy: 740, 146
+  size: 27, 80
+  orig: 27, 80
+  offset: 0, 0
+  index: -1
+role1/batteryline_head1
+  rotate: false
+  xy: 979, 324
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+role1/batteryline_head2
+  rotate: false
+  xy: 934, 26
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+role1/bossicon
+  rotate: true
+  xy: 808, 221
+  size: 88, 90
+  orig: 88, 90
+  offset: 0, 0
+  index: -1
+role1/critical
+  rotate: true
+  xy: 979, 366
+  size: 40, 12
+  orig: 40, 12
+  offset: 0, 0
+  index: -1
+role1/hit_light
+  rotate: true
+  xy: 825, 95
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+role1/hit_light2
+  rotate: true
+  xy: 869, 104
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+role1/hp
+  rotate: false
+  xy: 972, 174
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+role1/mood1
+  rotate: false
+  xy: 646, 133
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+role1/mood3
+  rotate: false
+  xy: 646, 38
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+role1/shoot
+  rotate: false
+  xy: 902, 170
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+role1/shootlight1
+  rotate: true
+  xy: 969, 271
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1
+role1/shootlight2
+  rotate: true
+  xy: 969, 231
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1
+role1/stay1
+  rotate: false
+  xy: 775, 96
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+role1/stay2
+  rotate: false
+  xy: 913, 114
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+role1/stay3
+  rotate: false
+  xy: 825, 39
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+sky
+  rotate: false
+  xy: 646, 228
+  size: 160, 81
+  orig: 160, 81
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 963, 152
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

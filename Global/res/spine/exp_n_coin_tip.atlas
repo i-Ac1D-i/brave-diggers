@@ -1,0 +1,27 @@
+
+exp_n_coin_tip.png
+size: 84,82
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin_header
+  rotate: true
+  xy: 44, 24
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+mission_icon_exp
+  rotate: true
+  xy: 2, 13
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 44, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

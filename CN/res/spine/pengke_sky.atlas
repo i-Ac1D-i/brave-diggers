@@ -1,0 +1,104 @@
+
+pengke_sky.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xingqiu_1
+  rotate: false
+  xy: 324, 699
+  size: 129, 131
+  orig: 129, 131
+  offset: 0, 0
+  index: -1
+xingqiu_1_1
+  rotate: false
+  xy: 658, 875
+  size: 129, 131
+  orig: 129, 131
+  offset: 0, 0
+  index: -1
+xingqiu_2
+  rotate: false
+  xy: 455, 741
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+xingqiu_2_1
+  rotate: false
+  xy: 789, 917
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+xingqiu_3
+  rotate: false
+  xy: 2, 2
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+xingqiu_3_1
+  rotate: false
+  xy: 324, 605
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+xingqiu_4
+  rotate: false
+  xy: 324, 562
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+xingqiu_5
+  rotate: false
+  xy: 418, 673
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+xingqiu_6
+  rotate: false
+  xy: 658, 836
+  size: 79, 37
+  orig: 79, 37
+  offset: 0, 0
+  index: -1
+xingqiu_7
+  rotate: false
+  xy: 96, 51
+  size: 131, 43
+  orig: 131, 43
+  offset: 0, 0
+  index: -1
+xinkong_1
+  rotate: false
+  xy: 2, 430
+  size: 320, 576
+  orig: 320, 576
+  offset: 0, 0
+  index: -1
+xinkong_1_1
+  rotate: false
+  xy: 2, 204
+  size: 320, 224
+  orig: 320, 224
+  offset: 0, 0
+  index: -1
+xinkong_1_2
+  rotate: false
+  xy: 324, 832
+  size: 332, 174
+  orig: 332, 174
+  offset: 0, 0
+  index: -1
+xinkong_1_3
+  rotate: false
+  xy: 2, 96
+  size: 320, 106
+  orig: 320, 106
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+box_ani.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flash_light_3
+  rotate: true
+  xy: 2, 20
+  size: 42, 95
+  orig: 42, 95
+  offset: 0, 0
+  index: -1
+flash_light_4
+  rotate: false
+  xy: 99, 13
+  size: 70, 49
+  orig: 72, 52
+  offset: 2, 2
+  index: -1
+flash_light_5
+  rotate: false
+  xy: 171, 20
+  size: 63, 42
+  orig: 72, 52
+  offset: 0, 8
+  index: -1
+time_machine_1
+  rotate: false
+  xy: 355, 21
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+time_machine_1_1
+  rotate: false
+  xy: 398, 21
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+time_machine_2
+  rotate: false
+  xy: 441, 43
+  size: 41, 19
+  orig: 43, 22
+  offset: 1, 0
+  index: -1
+time_machine_2_1
+  rotate: false
+  xy: 441, 22
+  size: 41, 19
+  orig: 43, 22
+  offset: 1, 0
+  index: -1
+time_machine_3
+  rotate: false
+  xy: 236, 30
+  size: 58, 32
+  orig: 70, 34
+  offset: 5, 2
+  index: -1
+time_machine_3_1
+  rotate: false
+  xy: 296, 30
+  size: 57, 32
+  orig: 70, 34
+  offset: 4, 2
+  index: -1
+time_machine_4
+  rotate: true
+  xy: 2, 2
+  size: 16, 31
+  orig: 16, 33
+  offset: 0, 2
+  index: -1
+time_machine_5
+  rotate: false
+  xy: 35, 10
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1

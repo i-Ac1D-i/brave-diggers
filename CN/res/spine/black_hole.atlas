@@ -1,0 +1,454 @@
+
+black_hole.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black_1
+  rotate: false
+  xy: 1108, 144
+  size: 80, 50
+  orig: 80, 50
+  offset: 0, 0
+  index: -1
+black_hole_1
+  rotate: false
+  xy: 452, 43
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+black_hole_2
+  rotate: false
+  xy: 818, 106
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+black_hole_3
+  rotate: false
+  xy: 963, 106
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+black_hole_4
+  rotate: false
+  xy: 660, 93
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+black_hole_5
+  rotate: false
+  xy: 2, 4
+  size: 108, 120
+  orig: 108, 120
+  offset: 0, 0
+  index: -1
+black_hole_6
+  rotate: false
+  xy: 2, 126
+  size: 448, 123
+  orig: 448, 123
+  offset: 0, 0
+  index: -1
+flash_ani_1
+  rotate: false
+  xy: 660, 47
+  size: 106, 44
+  orig: 106, 44
+  offset: 0, 0
+  index: -1
+flash_ani_2
+  rotate: false
+  xy: 1108, 196
+  size: 127, 53
+  orig: 127, 53
+  offset: 0, 0
+  index: -1
+flash_ani_3
+  rotate: false
+  xy: 1304, 211
+  size: 61, 38
+  orig: 61, 38
+  offset: 0, 0
+  index: -1
+flash_ani_4
+  rotate: false
+  xy: 112, 29
+  size: 44, 95
+  orig: 44, 95
+  offset: 0, 0
+  index: -1
+flash_ani_5
+  rotate: false
+  xy: 158, 31
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+flash_ani_6
+  rotate: false
+  xy: 1237, 206
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+flash_ani_7
+  rotate: false
+  xy: 1346, 145
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+flash_ani_8
+  rotate: false
+  xy: 1420, 76
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+stone_light_flash_00001
+  rotate: false
+  xy: 158, 64
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00002
+  rotate: false
+  xy: 210, 64
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00003
+  rotate: false
+  xy: 262, 64
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00004
+  rotate: false
+  xy: 314, 64
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00005
+  rotate: false
+  xy: 366, 64
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00006
+  rotate: false
+  xy: 1190, 134
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00007
+  rotate: false
+  xy: 1242, 144
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00008
+  rotate: false
+  xy: 768, 31
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00009
+  rotate: false
+  xy: 820, 44
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00010
+  rotate: false
+  xy: 872, 44
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00011
+  rotate: false
+  xy: 924, 44
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00012
+  rotate: false
+  xy: 976, 44
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00013
+  rotate: false
+  xy: 1028, 44
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00014
+  rotate: false
+  xy: 1367, 189
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00015
+  rotate: false
+  xy: 1419, 189
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00016
+  rotate: false
+  xy: 1471, 189
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00017
+  rotate: false
+  xy: 1523, 189
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00018
+  rotate: false
+  xy: 1575, 189
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00019
+  rotate: false
+  xy: 1627, 189
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00020
+  rotate: false
+  xy: 1679, 189
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00021
+  rotate: false
+  xy: 1731, 189
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00022
+  rotate: false
+  xy: 1783, 189
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00023
+  rotate: false
+  xy: 1835, 189
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00024
+  rotate: false
+  xy: 1887, 189
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00025
+  rotate: false
+  xy: 1939, 189
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00026
+  rotate: false
+  xy: 1991, 189
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00027
+  rotate: false
+  xy: 1108, 82
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00028
+  rotate: false
+  xy: 220, 2
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00029
+  rotate: false
+  xy: 272, 2
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00030
+  rotate: false
+  xy: 324, 2
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00031
+  rotate: false
+  xy: 376, 2
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00032
+  rotate: false
+  xy: 1160, 72
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00033
+  rotate: false
+  xy: 1212, 72
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00034
+  rotate: false
+  xy: 1264, 82
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00035
+  rotate: false
+  xy: 1294, 144
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00036
+  rotate: false
+  xy: 1316, 82
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00037
+  rotate: false
+  xy: 1392, 127
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00038
+  rotate: false
+  xy: 1444, 127
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00039
+  rotate: false
+  xy: 1496, 127
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00040
+  rotate: false
+  xy: 1548, 127
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00041
+  rotate: false
+  xy: 1600, 127
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00042
+  rotate: false
+  xy: 1652, 127
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00043
+  rotate: false
+  xy: 1704, 127
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00044
+  rotate: false
+  xy: 1756, 127
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00045
+  rotate: false
+  xy: 1808, 127
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00046
+  rotate: false
+  xy: 1860, 127
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00047
+  rotate: false
+  xy: 1912, 127
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00048
+  rotate: false
+  xy: 1964, 127
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+stone_light_flash_00049
+  rotate: false
+  xy: 1368, 65
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+forge.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big_light_f
+  rotate: false
+  xy: 812, 202
+  size: 160, 284
+  orig: 160, 284
+  offset: 0, 0
+  index: -1
+end_losetxt_all
+  rotate: false
+  xy: 204, 123
+  size: 270, 100
+  orig: 270, 100
+  offset: 0, 0
+  index: -1
+end_wintxt_all
+  rotate: false
+  xy: 2, 225
+  size: 363, 97
+  orig: 363, 97
+  offset: 0, 0
+  index: -1
+loading_light
+  rotate: false
+  xy: 476, 94
+  size: 101, 150
+  orig: 101, 150
+  offset: 0, 0
+  index: -1
+loadingbar
+  rotate: false
+  xy: 524, 367
+  size: 286, 119
+  orig: 286, 119
+  offset: 0, 0
+  index: -1
+loadingbar2
+  rotate: false
+  xy: 524, 246
+  size: 286, 119
+  orig: 286, 119
+  offset: 0, 0
+  index: -1
+paper_light
+  rotate: false
+  xy: 2, 324
+  size: 520, 162
+  orig: 520, 162
+  offset: 0, 0
+  index: -1
+txt_light
+  rotate: false
+  xy: 2, 2
+  size: 200, 221
+  orig: 200, 221
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+buff_ani.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff_1
+  rotate: false
+  xy: 262, 69
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+buff_2
+  rotate: false
+  xy: 316, 69
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+buff_3
+  rotate: false
+  xy: 370, 69
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+contract_level
+  rotate: false
+  xy: 2, 2
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+contract_level_1
+  rotate: false
+  xy: 424, 80
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+rewardbtn_icon_search
+  rotate: false
+  xy: 2, 45
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+rewardbtn_icon_search_2
+  rotate: false
+  xy: 80, 45
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+shield_icon
+  rotate: false
+  xy: 158, 66
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+shield_icon_2
+  rotate: false
+  xy: 210, 66
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1

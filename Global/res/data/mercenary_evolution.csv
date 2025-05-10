@@ -1,0 +1,4 @@
+ID,配方ID,数量,合成佣兵ID,合成佣兵数量,是否开启
+number,number,number,number,number,boolean
+ID,mercenary_id,mercenary_num,get_mercenary_id,get_mercenary_num,is_open
+1,19000118,3,19000119,1,1

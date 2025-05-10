@@ -1,0 +1,146 @@
+
+rock_magma.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing1
+  rotate: false
+  xy: 2, 25
+  size: 320, 101
+  orig: 320, 101
+  offset: 0, 0
+  index: -1
+beijing2
+  rotate: false
+  xy: 646, 69
+  size: 320, 57
+  orig: 320, 57
+  offset: 0, 0
+  index: -1
+beijing3
+  rotate: false
+  xy: 324, 5
+  size: 320, 43
+  orig: 320, 43
+  offset: 0, 0
+  index: -1
+fire_1
+  rotate: false
+  xy: 646, 2
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+fire_2
+  rotate: false
+  xy: 669, 2
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+fire_3
+  rotate: false
+  xy: 692, 2
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+fire_4
+  rotate: false
+  xy: 976, 111
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+fire_5
+  rotate: false
+  xy: 694, 52
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+fire_6
+  rotate: false
+  xy: 976, 94
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+fire_di_0
+  rotate: false
+  xy: 324, 50
+  size: 320, 76
+  orig: 320, 76
+  offset: 0, 0
+  index: -1
+fire_di_1
+  rotate: false
+  xy: 2, 7
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+fire_di_2
+  rotate: false
+  xy: 694, 46
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+fire_di_3
+  rotate: false
+  xy: 2, 16
+  size: 34, 7
+  orig: 34, 7
+  offset: 0, 0
+  index: -1
+fire_di_4
+  rotate: false
+  xy: 717, 62
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+fire_di_5
+  rotate: false
+  xy: 38, 16
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+fire_w_1
+  rotate: false
+  xy: 968, 44
+  size: 6, 82
+  orig: 6, 82
+  offset: 0, 0
+  index: -1
+fire_w_2
+  rotate: false
+  xy: 1004, 117
+  size: 2, 9
+  orig: 2, 9
+  offset: 0, 0
+  index: -1
+fire_w_3
+  rotate: false
+  xy: 999, 104
+  size: 3, 22
+  orig: 3, 22
+  offset: 0, 0
+  index: -1
+fire_w_4
+  rotate: false
+  xy: 976, 83
+  size: 3, 9
+  orig: 3, 9
+  offset: 0, 0
+  index: -1
+light_pic
+  rotate: false
+  xy: 646, 19
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1

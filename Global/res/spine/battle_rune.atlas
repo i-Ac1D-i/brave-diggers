@@ -1,0 +1,272 @@
+
+battle_rune.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fuwen_000001
+  rotate: false
+  xy: 2, 410
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fuwen_000002
+  rotate: false
+  xy: 2, 308
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fuwen_000003
+  rotate: false
+  xy: 104, 410
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fuwen_000004
+  rotate: false
+  xy: 2, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fuwen_000005
+  rotate: false
+  xy: 104, 308
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fuwen_000006
+  rotate: false
+  xy: 206, 410
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fuwen_000007
+  rotate: false
+  xy: 2, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fuwen_000008
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fuwen_000009
+  rotate: false
+  xy: 104, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fuwen_000010
+  rotate: false
+  xy: 206, 308
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fuwen_000011
+  rotate: false
+  xy: 308, 410
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fuwen_000012
+  rotate: false
+  xy: 410, 410
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fuwen_000013
+  rotate: false
+  xy: 104, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fuwen_000014
+  rotate: false
+  xy: 104, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fuwen_000015
+  rotate: false
+  xy: 206, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fuwen_000016
+  rotate: false
+  xy: 308, 308
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fuwen_000017
+  rotate: false
+  xy: 410, 308
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fuwen_000018
+  rotate: false
+  xy: 206, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fuwen_000019
+  rotate: false
+  xy: 206, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fuwen_000020
+  rotate: false
+  xy: 308, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fuwen_000021
+  rotate: false
+  xy: 410, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fuwen_000022
+  rotate: false
+  xy: 308, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fuwen_000023
+  rotate: false
+  xy: 308, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fuwen_f_1
+  rotate: false
+  xy: 410, 80
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+symbol_1
+  rotate: false
+  xy: 472, 163
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+symbol_1_1
+  rotate: false
+  xy: 410, 37
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+symbol_black
+  rotate: false
+  xy: 447, 89
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+symbol_light_1
+  rotate: false
+  xy: 410, 15
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+symbol_light_10
+  rotate: false
+  xy: 425, 2
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+symbol_light_2
+  rotate: false
+  xy: 472, 143
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+symbol_light_3
+  rotate: false
+  xy: 486, 147
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+symbol_light_4
+  rotate: false
+  xy: 425, 18
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+symbol_light_5
+  rotate: false
+  xy: 447, 75
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+symbol_light_6
+  rotate: false
+  xy: 470, 75
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+symbol_light_7
+  rotate: false
+  xy: 461, 66
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+symbol_light_8
+  rotate: false
+  xy: 447, 56
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+symbol_light_9
+  rotate: false
+  xy: 447, 39
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+symbol_light_big
+  rotate: false
+  xy: 410, 132
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1

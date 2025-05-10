@@ -1,0 +1,146 @@
+
+coopskill_remind.png
+size: 512,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 48, 3
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+a_1
+  rotate: false
+  xy: 70, 3
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 308, 4
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+c_1
+  rotate: false
+  xy: 329, 4
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 264, 4
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+d_1
+  rotate: false
+  xy: 286, 4
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+e
+  rotate: false
+  xy: 180, 2
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+e_1
+  rotate: false
+  xy: 201, 2
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+f
+  rotate: false
+  xy: 222, 2
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+f_1
+  rotate: false
+  xy: 243, 2
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+i
+  rotate: false
+  xy: 390, 3
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+i_1
+  rotate: false
+  xy: 407, 3
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+n_1
+  rotate: false
+  xy: 2, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+r
+  rotate: false
+  xy: 92, 3
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+r_1
+  rotate: false
+  xy: 114, 3
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+t
+  rotate: false
+  xy: 350, 3
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+t_1
+  rotate: false
+  xy: 370, 3
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+u_1
+  rotate: false
+  xy: 25, 3
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+v
+  rotate: false
+  xy: 136, 3
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+v_1
+  rotate: false
+  xy: 158, 3
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1

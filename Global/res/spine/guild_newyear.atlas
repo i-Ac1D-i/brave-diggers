@@ -1,0 +1,153 @@
+
+guild_newyear.png
+size: 819,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 2, 8
+  size: 320, 461
+  orig: 320, 461
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: false
+  xy: 711, 12
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+create_tip
+  rotate: false
+  xy: 745, 12
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+decorate1
+  rotate: false
+  xy: 603, 7
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+decorate2
+  rotate: false
+  xy: 491, 188
+  size: 137, 140
+  orig: 137, 140
+  offset: 0, 0
+  index: -1
+decorate_battle
+  rotate: false
+  xy: 491, 88
+  size: 132, 98
+  orig: 132, 98
+  offset: 0, 0
+  index: -1
+decorate_book
+  rotate: false
+  xy: 790, 303
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+decorate_chair
+  rotate: false
+  xy: 465, 32
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+decorate_desk
+  rotate: true
+  xy: 722, 138
+  size: 89, 73
+  orig: 89, 73
+  offset: 0, 0
+  index: -1
+decorate_discuss
+  rotate: true
+  xy: 491, 10
+  size: 76, 79
+  orig: 76, 79
+  offset: 0, 0
+  index: -1
+decorate_flag
+  rotate: false
+  xy: 572, 6
+  size: 29, 80
+  orig: 29, 80
+  offset: 0, 0
+  index: -1
+decorate_light1
+  rotate: false
+  xy: 630, 229
+  size: 158, 99
+  orig: 158, 99
+  offset: 0, 0
+  index: -1
+decorate_light2
+  rotate: true
+  xy: 687, 2
+  size: 6, 17
+  orig: 6, 17
+  offset: 0, 0
+  index: -1
+decorate_light3
+  rotate: true
+  xy: 603, 49
+  size: 6, 17
+  orig: 6, 17
+  offset: 0, 0
+  index: -1
+decorate_light4
+  rotate: true
+  xy: 666, 2
+  size: 6, 19
+  orig: 6, 19
+  offset: 0, 0
+  index: -1
+decorate_tent
+  rotate: false
+  xy: 465, 55
+  size: 24, 273
+  orig: 24, 273
+  offset: 0, 0
+  index: -1
+rewardgif_1
+  rotate: true
+  xy: 630, 139
+  size: 88, 90
+  orig: 88, 90
+  offset: 0, 0
+  index: -1
+rewardgif_2
+  rotate: true
+  xy: 625, 49
+  size: 88, 90
+  orig: 88, 90
+  offset: 0, 0
+  index: -1
+rewardgif_3
+  rotate: false
+  xy: 717, 46
+  size: 88, 90
+  orig: 88, 90
+  offset: 0, 0
+  index: -1
+role
+  rotate: true
+  xy: 666, 10
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+role_shadow
+  rotate: true
+  xy: 603, 57
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1

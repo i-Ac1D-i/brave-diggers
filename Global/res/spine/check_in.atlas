@@ -1,0 +1,27 @@
+
+check_in.png
+size: 267,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pray_n_metallury
+  rotate: false
+  xy: 201, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+sign_in_node_light
+  rotate: false
+  xy: 2, 38
+  size: 197, 28
+  orig: 197, 28
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 2, 16
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

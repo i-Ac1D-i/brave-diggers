@@ -1,0 +1,62 @@
+
+contract_success.png
+size: 355,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+decorate
+  rotate: false
+  xy: 273, 42
+  size: 49, 16
+  orig: 49, 16
+  offset: 0, 0
+  index: -1
+icon
+  rotate: false
+  xy: 225, 124
+  size: 80, 78
+  orig: 80, 78
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 2, 2
+  size: 200, 221
+  orig: 200, 221
+  offset: 0, 0
+  index: -1
+round1
+  rotate: false
+  xy: 307, 156
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+round1_nor
+  rotate: false
+  xy: 225, 12
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+round2
+  rotate: false
+  xy: 225, 60
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+round2_nor
+  rotate: false
+  xy: 289, 60
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 307, 134
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

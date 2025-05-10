@@ -1,0 +1,104 @@
+
+star_lv.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+open_light
+  rotate: false
+  xy: 2, 44
+  size: 148, 160
+  orig: 148, 160
+  offset: 0, 0
+  index: -1
+pro_plt2_00001
+  rotate: false
+  xy: 152, 104
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+pro_plt2_00002
+  rotate: false
+  xy: 204, 104
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+pro_plt2_00003
+  rotate: false
+  xy: 256, 104
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+pro_plt2_00004
+  rotate: false
+  xy: 308, 104
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+pro_plt2_00005
+  rotate: false
+  xy: 360, 104
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+pro_plt2_00006
+  rotate: false
+  xy: 412, 104
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+pro_plt2_00007
+  rotate: false
+  xy: 152, 2
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+pro_plt2_00008
+  rotate: false
+  xy: 204, 2
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+pro_plt2_00009
+  rotate: false
+  xy: 256, 2
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+pro_plt2_00010
+  rotate: false
+  xy: 308, 2
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+shan
+  rotate: false
+  xy: 360, 93
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 464, 176
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+star2
+  rotate: false
+  xy: 2, 14
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1

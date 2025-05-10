@@ -1,0 +1,20 @@
+
+gift_box.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box_gift
+  rotate: false
+  xy: 2, 2
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+gift002
+  rotate: false
+  xy: 102, 52
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1

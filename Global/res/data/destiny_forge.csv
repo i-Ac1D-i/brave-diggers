@@ -1,0 +1,14 @@
+ID,宿命锻造级别,要求宿命武器数量,锻造后战力提升,铜,锡,铁,银,黄金,钻石,泰坦铁,红宝石,紫宝石,绿宝石,黄宝石
+number,number,number,number,number,number,number,number,number,number,number,number,number,number,number
+ID,level,need_number,bp_factor,copper,tin,iron,silver,gold,diamond,titan_iron,ruby,purple_gem,emerald,topaz
+1,0,1,0,6,,,,,,,,,,
+2,1,2,15,10,,,,,,,1,,,
+3,2,3,30,22,3,,,,,,1,,,
+4,3,4,45,27,19,,,,,,4,,,
+5,4,5,60,,40,8,,,,,6,3,,
+6,5,6,75,,,34,4,,,,4,6,1,
+7,6,7,90,,,34,19,2,,,,4,5,
+8,7,8,105,,,,74,11,,,,,9,4
+9,8,9,120,,,,,60,13,,,,8,10
+10,9,10,135,,,,,80,70,10,,,,20
+11,10,,150,,,,,,,,,,,
